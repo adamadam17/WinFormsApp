@@ -1,0 +1,10 @@
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\bin\Debug\Semestralna_praca.exe.config
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\bin\Debug\Semestralna_praca.exe
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\bin\Debug\Semestralna_praca.pdb
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\obj\Debug\Semestralna_praca.csproj.AssemblyReference.cache
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\obj\Debug\Semestralna_praca.Form1.resources
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\obj\Debug\Semestralna_praca.Properties.Resources.resources
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\obj\Debug\Semestralna_praca.csproj.GenerateResource.cache
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\obj\Debug\Semestralna_praca.csproj.CoreCompileInputs.cache
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\obj\Debug\Semestralna_praca.exe
+C:\Users\Adam\OneDrive\Počítač\Semestralna_praca\Semestralna_praca\obj\Debug\Semestralna_praca.pdb
